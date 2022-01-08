@@ -7,4 +7,8 @@ public class Gitclassfirst {
 		//me
 	}
    String name = "waheed";
+   String lastname = "nushin";
+	
+
 }
+   
